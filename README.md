@@ -11,7 +11,8 @@
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ... I love being able to make devices work in their best form possible
 
-🧑‍💻 Tech Stack<lh>
+🧑‍💻 Tech Stack
+
 <p align="left">
   <img src="https://img.icons8.com/ios-filled/50/figma.png" alt="Figma" title="Figma" width="40"/>
 <!--   <img src="https://img.icons8.com/ios-filled/50/webflow.png" alt="Webflow" title="Webflow" width="40"/> -->
@@ -26,8 +27,8 @@
 
 
 📊 GitHub Analytics
-<lh>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasper-s-orbit&show_icons=true&theme=radical" alt="Teea's GitHub stats" height="160"/>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jasper-s-orbit&show_icons=true&theme=radical" alt="Jasper's GitHub stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasper-s-orbit&layout=compact&theme=radical" alt="Top Langs" height="160"/>
 </div>
