@@ -7,11 +7,11 @@
 - 👯 I’m looking to collaborate on projects that educate on the latest technologies and fun facts
 - 🤔 I’m looking for help with scaling my platform and setting up backend magic, as well as learning game development
 - 💬 Ask me about web development, design systems, terminal, and operating systems
-- 📫 How to reach me: ...delaliyankson@gmail.com | www.linkedin.com/in/jeremiah-yankson-dev
+- 📫 How to reach me: ... <a href="delaliyankson@gmail.com">Email</a> | <a href="www.linkedin.com/in/jeremiah-yankson-dev">LinkedIn</a>
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ... I love being able to make devices work in their best form possible
 
-Tech Stack
+🧑‍💻 Tech Stack<lh>
 <p align="left">
   <img src="https://img.icons8.com/ios-filled/50/figma.png" alt="Figma" title="Figma" width="40"/>
 <!--   <img src="https://img.icons8.com/ios-filled/50/webflow.png" alt="Webflow" title="Webflow" width="40"/> -->
@@ -26,7 +26,7 @@ Tech Stack
 
 
 📊 GitHub Analytics
-
+<lh>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jasper-s-orbit&show_icons=true&theme=radical" alt="Teea's GitHub stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasper-s-orbit&layout=compact&theme=radical" alt="Top Langs" height="160"/>
