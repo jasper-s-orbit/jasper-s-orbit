@@ -1,14 +1,14 @@
-## Hi there 👋, I'm Jeremy Yankson, an aspiring full-stack developer aka Jasper
+## Hi there 👋, I'm Jeremy Yankson aka jasper, an aspiring Full-Stack Developer, Game Developer and DevOps Engineer
 
 ## 💡 About me
 
 - 🔭 I’m currently working on ... a gallery that works similarly to Unsplash
-- 🌱 I’m currently learning ...React and GSAP
+- 🌱 I’m currently learning ...React, GSAP and Linux
 - 👯 I’m looking to collaborate on projects that educate on the latest technologies and fun facts
 - 🤔 I’m looking for help with scaling my platform and setting up backend magic, as well as learning game development
 - 💬 Ask me about web development, design systems, terminal, and operating systems
 - 📫 How to reach me: ... <a href="delaliyankson@gmail.com">Email</a> | <a href="www.linkedin.com/in/jeremiah-yankson-dev">LinkedIn</a> | <a href="https://api.whatsapp.com/send/?phone=%2B233260555507&text&type=phone_number&app_absent=0">WhatsApp<a/>
-- 😄 Pronouns: ...he/him
+- 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I love being able to make devices work in their best form possible
 
 ## 🧑‍💻 Tech Stack
@@ -25,7 +25,7 @@
   <img src="https://img.icons8.com/ios-glyphs/40/github.png" alt="GitHub" title="GitHub" width="40"/>
 </p>
 
-> Currently studying "GSAP" (for animations and design systems)
+> Currently studying **GSAP** (for animation and design systems, making websites look and feel premium and interactive)
 
 ## 📊 GitHub Analytics
 
