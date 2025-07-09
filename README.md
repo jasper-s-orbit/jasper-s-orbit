@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on projects that educate on the latest technologies and fun facts
 - 🤔 I’m looking for help with scaling my platform and setting up backend magic, as well as learning game development
 - 💬 Ask me about web development, design systems, terminal, and operating systems
-- 📫 How to reach me: ... <a href="delaliyankson@gmail.com">Email</a> | <a href="www.linkedin.com/in/jeremiah-yankson-dev">LinkedIn</a> | <a href="wa.me/+233260555507">WhatsApp<a/>
+- 📫 How to reach me: ... <a href="delaliyankson@gmail.com">Email</a> | <a href="www.linkedin.com/in/jeremiah-yankson-dev">LinkedIn</a> | <a href="https://api.whatsapp.com/send/?phone=%2B233260555507&text&type=phone_number&app_absent=0">WhatsApp<a/>
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ... I love being able to make devices work in their best form possible
 
@@ -31,5 +31,5 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jasper-s-orbit&show_icons=true&theme=radical" alt="Jasper's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasper-s-orbit&layout=compact&theme=radical" alt="Top Langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasper-s-orbit&layout=compact&theme=radical" alt="Top Langs" height="160"/>
 </div>
