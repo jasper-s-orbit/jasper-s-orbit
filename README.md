@@ -1,6 +1,6 @@
-## Hi there 👋, I'm Jeremy Yankson, an aspiring full-stack developer
+## Hi there 👋, I'm Jeremy Yankson, an aspiring full-stack developer aka Jasper
 
-💡About me
+## 💡 About me
 
 - 🔭 I’m currently working on ... a gallery that works similarly to Unsplash
 - 🌱 I’m currently learning ...React and GSAP
