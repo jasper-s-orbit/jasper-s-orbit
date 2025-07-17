@@ -10,7 +10,7 @@
 - 📫 How to reach me: ... <a href="delaliyankson@gmail.com">Email</a> | <a href="www.linkedin.com/in/jeremiah-yankson-dev">LinkedIn</a> | <a href="https://api.whatsapp.com/send/?phone=%2B233260555507&text&type=phone_number&app_absent=0">WhatsApp<a/>
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I love being able to make devices work in their best form possible
-- 🧑‍💻 I'm the DevOps Engineer for @lumoraTech6 
+- 🧑‍💻 I'm the DevOps Engineer for <a href="https://github.com/lumoraTech6" target="_blank">Lumora Technologies</a>
 
 ## 🧑‍💻 Tech Stack
 
