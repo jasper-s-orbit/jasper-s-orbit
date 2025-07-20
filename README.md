@@ -26,7 +26,17 @@
   <img src="https://img.icons8.com/ios-glyphs/40/github.png" alt="GitHub" title="GitHub" width="40"/>
 </p>
 
-> Currently studying **GSAP** (for animation and design systems, making websites look and feel premium and interactive)
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=fff"/>
+</p>
+
+
+> Currently studying <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>   <img src="https://img.icons8.com/ios-glyphs/40/github.png" alt="GitHub" title="GitHub" width="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/greensock.svg" alt="GSAP" title="GSAP" width="40" style="filter: invert(41%) sepia(80%) saturate(395%) hue-rotate(70deg) brightness(95%) contrast(92%);"/>
 
 ## 📊 GitHub Analytics
 
@@ -34,3 +44,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jasper-s-orbit&show_icons=true&theme=radical" alt="Jasper's GitHub stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasper-s-orbit&layout=compact&theme=radical" alt="Top Langs" height="160"/>
 </div>
+
+## 🧠 My  GitHub Streak and Contribution graph
+
+<p align="center" display="flex">
+  <img src="https://streak-stats.demolab.com/?user=jasper-s-orbit&theme=react" width="40%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jasper-s-orbit&theme=react-dark" width="50%" />
+</p>
