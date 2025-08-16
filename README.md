@@ -11,6 +11,7 @@
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I love being able to make devices work in their best form possible
 - 🧑‍💻 I'm the DevOps Engineer for <a href="https://github.com/lumoraTech6" target="_blank">Lumora Technologies</a>
+- 🧑‍💻 It's been almost a year sinceI entered the  world of coding!
 
 ## 🧑‍💻 Tech Stack
 
