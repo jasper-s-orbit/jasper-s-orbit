@@ -50,5 +50,5 @@
 
 <p align="center" display="flex">
   <img src="https://streak-stats.demolab.com/?user=jasper-s-orbit&theme=react" width="40%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jasper-s-orbit&theme=react-dark" width="50%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jasper-s-orbit&theme=react-dark" width="50%"/>
 </p>
