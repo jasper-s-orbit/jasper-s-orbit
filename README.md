@@ -2,7 +2,7 @@
 
 ## 💡 About me
 
-- 🔭 I’m currently working on ... a gallery that works similarly to Unsplash
+- 🔭 I’m currently working on ... gaining experience with my JavaScript skills
 - 🌱 I’m currently learning ...React, GSAP and Linux
 - 👯 I’m looking to collaborate on projects that educate on the latest technologies and fun facts
 - 🤔 I’m looking for help with scaling my platform and setting up backend magic, as well as learning game development
