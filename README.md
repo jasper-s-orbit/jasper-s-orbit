@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on projects that educate on the latest technologies and fun facts
 - 🤔 I’m looking for help with scaling my platform and setting up backend magic, as well as learning game development
 - 💬 Ask me about web development, design systems, terminal, and operating systems
-- 📫 How to reach me: ... <a href="delaliyankson@gmail.com">Email</a> | <a href="www.linkedin.com/in/jeremiah-yankson-dev">LinkedIn</a> | <a href="https://api.whatsapp.com/send/?phone=%2B233260555507&text&type=phone_number&app_absent=0">WhatsApp<a/>
+- 📫 How to reach me: ... <a href="delaliyankson@gmail.com">Email</a> | <a href="www.linkedin.com/in/jeremiah-yankson-dev">LinkedIn</a> | <a href="https://api.whatsapp.com/send/?phone=%2B233256618460&text&type=phone_number&app_absent=0">WhatsApp<a/>
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I love being able to make devices work in their best form possible
 - 🧑‍💻 I'm the DevOps Engineer for <a href="https://github.com/lumoraTech6" target="_blank">Lumora Technologies</a>
